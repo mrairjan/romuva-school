@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Test</title>
+    <title>Php procedural workshop</title>
     <link rel="stylesheet" type="text/css" href="public/style/general.css">
 </head>
 <body>
